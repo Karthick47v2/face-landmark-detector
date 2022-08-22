@@ -5,7 +5,7 @@
   </a>
 </p>
 
-This is a part of [Mock-Buddy](https://github.com/Karthick47v2/mock-buddy) project, used to detect face interactivity. CNN architecture used to build the model to detect facial landmarks. Direction regression apporach is used here.
+This is a part of [Mock-Buddy](https://github.com/Karthick47v2/mock-buddy) project, used to detect face interactivity. CNN architecture used to build the model to detect facial landmarks. The model is build with TensorFlow applying direction regression apporach.
 
 ## Prerequisite
 
