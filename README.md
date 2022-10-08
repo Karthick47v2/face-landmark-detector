@@ -33,6 +33,8 @@ This is a part of [Mock-Buddy](https://github.com/Karthick47v2/mock-buddy) proje
 
 > I have taken test datasets as iBug, Helen-test and LFPW-test and used evaluation metrics mentioned in 300 faces in-the-wild challenge ([link](https://ibug.doc.ic.ac.uk/resources/300-W/)).
 
+> Trained model metrics are in `metrics` folder.
+
 ## Author
 
 👤 **Karthick T. Sharma**
